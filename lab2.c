@@ -47,7 +47,7 @@ void freeMas(char **mas, int count){
             }
                     }
                     printf("Колличество перестановок = %d\n", koll);
-                    printf("Первая буква первой строки = %c\n", uk[0][0]);
+                    printf("Первая буква первой строк = %c\n", uk[0][0]);
     }
 
 
